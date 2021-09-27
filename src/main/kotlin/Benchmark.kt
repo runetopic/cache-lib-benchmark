@@ -13,7 +13,7 @@ val path = "${System.getProperty("user.home")}/614/"
 
 fun main() {
     runetopic()
-    //guthix()
+    guthix()
     displee()
 }
 
